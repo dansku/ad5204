@@ -1868,7 +1868,6 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <sheets>
 <sheet>
 <plain>
-<text x="25.4" y="38.1" size="1.778" layer="91">www.DanielAndrade.net</text>
 </plain>
 <instances>
 <instance part="U1" gate="G$1" x="5.08" y="50.8"/>
