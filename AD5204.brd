@@ -144,7 +144,7 @@
 <text x="7.747" y="5.588" size="0.508" layer="25">GND</text>
 <text x="10.541" y="5.588" size="0.508" layer="25">CS</text>
 <text x="13.081" y="5.588" size="0.508" layer="25">VDD</text>
-<text x="15.621" y="5.588" size="0.508" layer="25">SPI</text>
+<text x="15.621" y="5.588" size="0.508" layer="25">SDI</text>
 <text x="18.161" y="5.588" size="0.508" layer="25">CLK</text>
 <text x="20.574" y="5.588" size="0.508" layer="25">SDO</text>
 <text x="10.922" y="23.114" size="0.508" layer="25">W1</text>
